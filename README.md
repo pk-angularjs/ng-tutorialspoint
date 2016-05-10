@@ -1,2 +1,1 @@
-# ng-tutorialspoint
-AngularJS Tutorials Point
+# AngularJS Tutorials Point
